@@ -16,7 +16,7 @@
   "adaptivetooltips.opt.always_align_corner.title": "始终对齐角",
   "adaptivetooltips.opt.always_align_corner.desc": "即使不需要，也要与角对齐",
   "adaptivetooltips.group.scrolling.title": "滚动",
-  "adaptivetooltips.group.scrolling.desc": "控制 AdaptiveTooltips 中滚动功能的行为",
+  "adaptivetooltips.group.scrolling.desc": "控制 Adaptive Tooltips 中滚动功能的行为",
   "adaptivetooltips.label.scrolling_instructions": "当工具提示显示时，按住 %s 并滚动可以上下滚动，左右滚动可以水平移动。或者，同时按住 %s 改为水平滚动。",
   "adaptivetooltips.opt.smooth_scrolling.title": "平滑滚动",
   "adaptivetooltips.opt.smooth_scrolling.desc": "工具提示滚动显得更平滑，而不是即时的",
